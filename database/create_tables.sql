@@ -1,0 +1,5 @@
+CREATE TABLE orders (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    order_items TEXT,
+    order_time TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);

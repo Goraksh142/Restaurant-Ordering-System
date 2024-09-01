@@ -1,0 +1,12 @@
+Restaurant-Ordering-System/
+│
+├── index.html               # Main HTML file for the website (frontend)
+├── style.css                # CSS file for styling (frontend)
+├── script.js                # JavaScript file for interactivity (frontend)
+├── process_order.php        # PHP file for handling orders (backend)
+│
+├── assets/                  # Folder for assets like images, fonts, etc.
+│   └── images/
+│
+└── database/                # Folder for database-related files
+    └── create_tables.sql    # SQL file for creating database tables
